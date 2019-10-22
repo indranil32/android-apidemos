@@ -30,7 +30,7 @@
   "homepage": "https://github.com/appium/android-apidemos",
   "devDependencies": {
     "appium-gulp-plugins": "^4.1.0",
-    "replace-in-file": "^4.1.1",
+    "replace-in-file": "^4.2.0",
     "yargs": "^14.0.0"
   }
 }
